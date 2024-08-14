@@ -10,12 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@radix-ui/themes": "^2.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@radix-ui/react-dialog": "^1.0.5",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
